@@ -102,3 +102,25 @@ Exploratory Data Analysis | Topic Model Analysis | Tokenization & Lemmatization|
     </td>
   </tr>
 </table>
+
+---
+
+<table>
+  <tr>
+    <td>
+      <img src="https://www.ecdc.europa.eu/sites/default/files/styles/is_large/public/images/Vaccine-tracker-desktop_H.PNG?itok=KbsyKoLQ" alt="Project 5 Image" width="700"/>
+    </td>
+    <td>
+      <h3>
+        <a href="https://github.com/jessicafeto/Data-Science-Analytics-Portfolio-Jessica-Feto/tree/main/Analysis%20of%20COVID19%20and%20Vaccination%20progress%20as%20a%20Data%20Warehouse%20approch">
+          An Analysis of COVID-19 Pandemic and Vaccination Progress in Europe: A Data Warehousing Approach
+        </a>
+      </h3>
+      <p>This data warehousing project analyses the COVID-19 pandemic and vaccination progress in Europe. Utilizing ECDC data, it provides a current snapshot of the situation, with a focus on regional trends, ICU admission rates, and vaccination uptakes.
+</p>
+      <ul>
+       <li> Data Warehouse Schema Design | Data Analysis | SQL Queries Optimization | Python Scripting | Data Visualization | Materialized Views </li>
+      </ul>
+    </td>
+  </tr>
+</table>
