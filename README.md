@@ -42,7 +42,7 @@ Welcome to my portfolio! Here you will find a collection of my projects in data 
     </td>
     <td>
       <h3>
-        <a href="https://github.com/jessicafeto/Portfolio/blob/main/Housing%20Market%20UK%20-%20Dashboard%20Power%20BI.zip">
+        <a href="https://github.com/jessicafeto/Data-Science-Analytics-Portfolio-Jessica-Feto/tree/main/Housing%20Market%20UK%20Data%20Visualisation%20and%20Dashboard%20Design">
           Housing Market UK - Dashboard Power BI
         </a>
       </h3>
@@ -65,7 +65,7 @@ Welcome to my portfolio! Here you will find a collection of my projects in data 
     </td>
     <td>
       <h3>
-        <a href="https://github.com/jessicafeto/Portfolio/blob/main/RFM_Segmentation_and_K_Means_Clustering_for_Grocery_Shopping_Data.ipynb">
+        <a href="https://github.com/jessicafeto/Data-Science-Analytics-Portfolio-Jessica-Feto/tree/main/RFM%20Segmentation%20and%20KMeans%20Clustering">
           RFM Segmentation and KMeans Clustering for Grocery Shopping Data 
         </a>
       </h3>
@@ -88,7 +88,7 @@ Statistical Exploration | Date Transformation | Matplotlib Visuals | SQLite Data
     </td>
     <td>
       <h3>
-        <a href="https://github.com/jessicafeto/Portfolio/blob/main/Social_Media_Sentiment_Analysis_on_Starbucks.ipynb">
+        <a href="https://github.com/jessicafeto/Data-Science-Analytics-Portfolio-Jessica-Feto/tree/main/Social%20Media%20Sentimet%20Analysis%20on%20Starbucks">
           Social Media Sentiment Analysis on Starbucks
         </a>
       </h3>
