@@ -20,7 +20,7 @@ Welcome to my portfolio! Here you will find a collection of my projects in data 
     </td>
     <td>
       <h3>
-        <a href="https://github.com/jessicafeto/Portfolio/blob/main/Strategic_Analytics_in_Fashion_Transforming_Consumer_Data_into_Business_Decisions.ipynb">
+        <a href="https://github.com/jessicafeto/Data-Science-Analytics-Portfolio-Jessica-Feto/tree/main/Strategic%20Analytics%20in%20Fashion">
           Strategic Analytics in Fashion: Transforming Consumer Data
           into Business Decisions
         </a>
