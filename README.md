@@ -3,7 +3,7 @@
 Welcome to my portfolio! Here you will find a collection of my projects in data science and analytics.
 
 - Email: [jessicafeto@yahoo.com](mailto:jessicafeto@yahoo.com)
-- Connect with me on LinkedIn: [linkedin.com/in/jessicafeto](https://www.linkedin.com/in/jessica-feto/)
+- Connect with me on LinkedIn: [linkedin.com/in/jessicafeto](https://www.linkedin.com/in/jessica-feto/) 
 ---
 ### **Achievements:**
 
