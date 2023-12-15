@@ -1,3 +1,13 @@
+<style>
+  .portfolio-image {
+    max-width: 100%; /* This makes image responsive */
+    height: auto; /* This keeps the aspect ratio intact */
+    display: block; /* To center-align the image */
+    margin-left: auto;
+    margin-right: auto;
+  }
+</style>
+
 # Data Science and Analytics Portfolio - Jessica Feto
 
 Welcome to my portfolio! Here you will find a collection of my projects in data science and analytics.
@@ -25,7 +35,7 @@ Welcome to my portfolio! Here you will find a collection of my projects in data 
           into Business Decisions
         </a>
       </h3>
-      <p>This project focuses on leveraging data mining techniquesto predict fashion trends. It includes exploratory data analysis, predictive modeling,and a deep dive intocustomer behavior patterns.</p>
+      <p>This project focuses on leveraging data mining techniques to predict fashion trends. It includes exploratory data analysis, predictive modeling,and a deep dive intocustomer behavior patterns.</p>
       <ul>
         <li>Data Collection & Preprocessing | EDA | Data Mining | Dimensionalty Reduction | Predictive Modelling | Model Evaluation | Optimization | Python| Pandas | NumPy | Matplotlib, Seaborn, scikit-learn | mlxtend | Market Basket Analysis | PCA | LDA </li>
       </ul>
@@ -38,7 +48,7 @@ Welcome to my portfolio! Here you will find a collection of my projects in data 
 <table>
   <tr>
     <td>
-      <img src="https://www.thesun.co.uk/wp-content/uploads/2019/05/AF-MAP-HOUSE-PRICES-CHANGE.jpg" alt="Project 2 Image" width="700"/>
+      <img src="https://www.edificeinvest.com/wp-content/uploads/2022/07/UK-House-Prices.jpg" alt="Project 2 Image" width="700"/>
     </td>
     <td>
       <h3>
@@ -61,7 +71,7 @@ Welcome to my portfolio! Here you will find a collection of my projects in data 
 <table>
   <tr>
     <td>
-      <img src="https://hivemarketingcloud.com/media/zphnp5zi/rfm-analysis-blog-graphic-01.png" alt="Project 3 Image" width="700"/>
+      <img src="https://www.appice.io/wp-content/uploads/2020/08/Webp.net-resizeimage-22.jpg" alt="Project 3 Image" width="700"/>
     </td>
     <td>
       <h3>
@@ -84,11 +94,11 @@ Statistical Exploration | Date Transformation | Matplotlib Visuals | SQLite Data
 <table>
   <tr>
     <td>
-      <img src="https://imerit.net/wp-content/uploads/2021/07/what-is-sentiment-analysis.jpg" alt="Project 4 Image" width="700"/>
+      <img src="https://miro.medium.com/v2/resize:fit:600/1*JCLSGNt5SQ7Jm7kjj6lm0Q.jpeg" alt="Project 4 Image" width="700"/>
     </td>
     <td>
       <h3>
-        <a href="https://github.com/jessicafeto/Portfolio/blob/main/RFM_Segmentation_and_K_Means_Clustering_for_Grocery_Shopping_Data.ipynb">
+        <a href="https://github.com/jessicafeto/Portfolio/blob/main/Social_Media_Sentiment_Analysis_on_Starbucks.ipynb">
           Social Media Sentiment Analysis on Starbucks
         </a>
       </h3>
