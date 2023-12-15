@@ -1,13 +1,3 @@
-<style>
-  .portfolio-image {
-    max-width: 100%; /* This makes image responsive */
-    height: auto; /* This keeps the aspect ratio intact */
-    display: block; /* To center-align the image */
-    margin-left: auto;
-    margin-right: auto;
-  }
-</style>
-
 # Data Science and Analytics Portfolio - Jessica Feto
 
 Welcome to my portfolio! Here you will find a collection of my projects in data science and analytics.
