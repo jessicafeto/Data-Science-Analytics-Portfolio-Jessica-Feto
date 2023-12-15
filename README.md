@@ -38,7 +38,7 @@ Welcome to my portfolio! Here you will find a collection of my projects in data 
 <table>
   <tr>
     <td>
-      <img src="https://www.thesun.co.uk/wp-content/uploads/2019/05/AF-MAP-HOUSE-PRICES-CHANGE.jpg" width="700"/>
+      <img src="https://www.thesun.co.uk/wp-content/uploads/2019/05/AF-MAP-HOUSE-PRICES-CHANGE.jpg" alt="Project 2 Image" width="700"/>
     </td>
     <td>
       <h3>
@@ -61,7 +61,7 @@ Welcome to my portfolio! Here you will find a collection of my projects in data 
 <table>
   <tr>
     <td>
-      <img src="https://hivemarketingcloud.com/media/zphnp5zi/rfm-analysis-blog-graphic-01.png" width="700"/>
+      <img src="https://hivemarketingcloud.com/media/zphnp5zi/rfm-analysis-blog-graphic-01.png" alt="Project 3 Image" width="700"/>
     </td>
     <td>
       <h3>
@@ -84,7 +84,7 @@ Statistical Exploration | Date Transformation | Matplotlib Visuals | SQLite Data
 <table>
   <tr>
     <td>
-      <img src="https://imerit.net/wp-content/uploads/2021/07/what-is-sentiment-analysis.jpg" width="700"/>
+      <img src="https://imerit.net/wp-content/uploads/2021/07/what-is-sentiment-analysis.jpg" alt="Project 4 Image" width="700"/>
     </td>
     <td>
       <h3>
@@ -92,7 +92,8 @@ Statistical Exploration | Date Transformation | Matplotlib Visuals | SQLite Data
           Social Media Sentiment Analysis on Starbucks
         </a>
       </h3>
-      <p>In this project, I conducted a comprehensive analysis of social media sentiments about coffee, specifically focusing on Starbucks. The project involved several key activities:
+      <p>In this project, I conducted a comprehensive analysis of social media sentiments about coffee, specifically focusing on Starbucks. 
+        The project involved several key activities:
 </p>
       <ul>
         <li> Data Collection using Twitter API & Reddit API |
