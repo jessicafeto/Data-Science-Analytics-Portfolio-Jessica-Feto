@@ -38,7 +38,7 @@ Welcome to my portfolio! Here you will find a collection of my projects in data 
 <table>
   <tr>
     <td>
-      <img src="https://www.edificeinvest.com/wp-content/uploads/2022/07/UK-House-Prices.jpg" alt="Project 2 Image" width="700"/>
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzyYpqQA5oz71k0iDTTIXErR2c72KlK_dPH-J66cpSjw&s" alt="Project 2 Image" width="700"/>
     </td>
     <td>
       <h3>
