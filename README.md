@@ -2,14 +2,10 @@
 
 Welcome to my portfolio! Here you will find a collection of my projects in data science and analytics.
 
-- Email: [jessicafeto@yahoo.com](mailto:jessicafeto@yahoo.com)
+- Email: [codesxjessica@gmail.com](mailto:codesxjessica@gmail.com)
 - Connect with me on LinkedIn: [linkedin.com/in/jessicafeto](https://www.linkedin.com/in/jessica-feto/) 
 ---
-### **Achievements:**
 
-1. [IBM Data Science Professional Certificate](https://coursera.org/share/456ac4fe16b74c7580d28d7041d00edf)
-2. [GOOGLE Project Management Professional Certificate](https://coursera.org/share/a2a699bfd15ec5ec2683ac52884e9ff8)
-3. [GOOGLE Digital Marketing & E-Commerce Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/WHXWL6A8WFHR)
 
 ### **Projects:**
 ----
